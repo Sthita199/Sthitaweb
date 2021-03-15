@@ -1,0 +1,92 @@
+{
+  "main": {
+    "name": "Sthitapragyan",
+    "occupation": "Web Developer",
+    "description": "Love to building projects with React, Acquire skill in MERN Stack",
+    "image": "situ.jpg",
+    "bio": "My name is Sthitapragyan Mishra, From - Odisha,India || Successfully completed my degree with Computer Science Engineering",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "sthitapragyan199@gmail.com",
+    "phone": "+91-9337675800",
+    "address": {
+      "street": "Talcher",
+      "city": "Odisha",
+      "state": "India",
+      "zip": "759116"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sthitapragyan.mishra.98",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sthitapragyan-mishra-b842931a1/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sthita._/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Sthita199",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Languages which i have covered and make projects on it :- HTML5, CSS , JAVASCRIPT, MOGODB,REACTJS, EXPRESS AND NODEJS (MERN Stack) also a brief knowledge about Version control and here the below graph is shown about my completion percentage% on these things",
+    "education": [
+      {
+        "school": "Adarsh College of Engineering",
+        "degree": "Computer Science & Engineering",
+        "description": "Graduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "Edureka",
+        "title": "Fullstack Web Development internship",
+        "years": "August 2020",
+        "description": "I have just covered up an internship with Edureka on the basis of Fullstack web development project and also certified as an interner" 
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "That Sthitapragyan must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresher an Under Graduate and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Tarini prasad"
+      }
+    ]
+  }
+}
