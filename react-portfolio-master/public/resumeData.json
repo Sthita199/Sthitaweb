@@ -2,9 +2,9 @@
   "main": {
     "name": "Sthitapragyan",
     "occupation": "Web Developer",
-    "description": "Love to building projects with React, Acquire skill in MERN Stack",
+    "description": "Love to building projects with React, Well versed skill in MERN Stack",
     "image": "situ.jpg",
-    "bio": "My name is Sthitapragyan Mishra, From - Odisha,India || Successfully completed my degree with Computer Science Engineering",
+    "bio": "My name is Sthitapragyan Mishra, From - Odisha || I completed my degree with Computer Science Engineering & have hands-on training of the latest technologies like MERN stack",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "sthitapragyan199@gmail.com",
     "phone": "+91-9337675800",
@@ -38,12 +38,22 @@
     ]
   },
   "resume": {
-    "skillmessage": "Languages which i have covered and make projects on it :- HTML5, CSS , JAVASCRIPT, MOGODB,REACTJS, EXPRESS AND NODEJS (MERN Stack) also a brief knowledge about Version control and here the below graph is shown about my completion percentage% on these things",
+    "skillmessage": "Languages which i have covered and make real time projects on it :- HTML5, CSS , JAVASCRIPT, MOGODB,REACTJS, EXPRESS AND NODEJS (MERN Stack) also a brief knowledge about Version control and here the below graph is shown about my completion percentage% on these things",
     "education": [
       {
         "school": "Adarsh College of Engineering",
         "degree": "Computer Science & Engineering",
-        "description": "Graduated"
+        "description": "Graduated (9.5 CGPA)"
+      },
+      {
+        "school": "VBRC,ANGUL",
+        "degree": "12th",
+        "description": "CHSE (65%)"
+      },
+      {
+        "school": "NKVP,ANGUL",
+        "degree": "10th",
+        "description": "BSE  (75%)"
       }
     ],
     "work": [
@@ -51,29 +61,33 @@
         "company": "Edureka",
         "title": "Fullstack Web Development internship",
         "years": "August 2020",
-        "description": "I have just covered up an internship with Edureka on the basis of Fullstack web development project and also certified as an interner" 
+        "description": "I have just covered up an internship with Edureka on the basis of Fullstack web development project and also certified as an INTERNER"
+      },
+      {
+        "title": "PROJECT DETAILS",
+        "description": "In this full fledge project it contains 4pages for where in the 1st page Serachbar , location dropdown & meal type tiles appeared, on 2nd page it contains resturants with a filter box where user can search on their budget & on the 3rd page it contains  resturant details, after make the order in 4th page it shows the order details"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "HTML && CSS",
+        "level": "90%"
+      },
+      {
+        "name": "JAVASCRIPT",
         "level": "70%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "REACT",
+        "level": "70%"
       },
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Figma && Adobe XD",
+        "name": "Nodejs && Express",
         "level": "55%"
       },
       {
-        "name": "HTML5",
-        "level": "85%"
+        "name": "GIT",
+        "level": "60%"
       },
       {
         "name": "MongoDB",
